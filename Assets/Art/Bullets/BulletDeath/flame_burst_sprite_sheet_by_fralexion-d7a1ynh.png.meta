@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 3751a5cc8b4994343b9c8a534a375286
+timeCreated: 1514325748
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_0
+    21300002: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_1
+    21300004: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_2
+    21300006: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_3
+    21300008: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_4
+    21300010: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_5
+    21300012: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_6
+    21300014: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_7
+    21300016: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_8
+    21300018: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_9
+    21300020: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_10
+    21300022: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_11
+    21300024: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_12
+    21300026: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_13
+    21300028: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_14
+    21300030: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_15
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 392
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 395
+        width: 109
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 391
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 391
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 263
+        width: 116
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 259
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 262
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 262
+        width: 117
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 135
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 133
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 132
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 133
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 5
+        width: 121
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3
+        width: 114
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flame_burst_sprite_sheet_by_fralexion-d7a1ynh_15
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 4
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

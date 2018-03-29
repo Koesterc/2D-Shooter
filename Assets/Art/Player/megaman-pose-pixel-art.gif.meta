@@ -1,0 +1,2248 @@
+fileFormatVersion: 2
+guid: a803472b224c36449a161d5dc20c7f2e
+timeCreated: 1512530902
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megaman-pose-pixel-art_0
+    21300002: megaman-pose-pixel-art_1
+    21300004: megaman-pose-pixel-art_2
+    21300006: megaman-pose-pixel-art_3
+    21300008: megaman-pose-pixel-art_4
+    21300010: megaman-pose-pixel-art_5
+    21300012: megaman-pose-pixel-art_6
+    21300014: megaman-pose-pixel-art_7
+    21300016: megaman-pose-pixel-art_8
+    21300018: megaman-pose-pixel-art_9
+    21300020: megaman-pose-pixel-art_10
+    21300022: megaman-pose-pixel-art_11
+    21300024: megaman-pose-pixel-art_12
+    21300026: megaman-pose-pixel-art_13
+    21300028: megaman-pose-pixel-art_14
+    21300030: megaman-pose-pixel-art_15
+    21300032: megaman-pose-pixel-art_16
+    21300034: megaman-pose-pixel-art_17
+    21300036: megaman-pose-pixel-art_18
+    21300038: megaman-pose-pixel-art_19
+    21300040: megaman-pose-pixel-art_20
+    21300042: megaman-pose-pixel-art_21
+    21300044: megaman-pose-pixel-art_22
+    21300046: megaman-pose-pixel-art_23
+    21300048: megaman-pose-pixel-art_24
+    21300050: megaman-pose-pixel-art_25
+    21300052: megaman-pose-pixel-art_26
+    21300054: megaman-pose-pixel-art_27
+    21300056: megaman-pose-pixel-art_28
+    21300058: megaman-pose-pixel-art_29
+    21300060: megaman-pose-pixel-art_30
+    21300062: megaman-pose-pixel-art_31
+    21300064: megaman-pose-pixel-art_32
+    21300066: megaman-pose-pixel-art_33
+    21300068: megaman-pose-pixel-art_34
+    21300070: megaman-pose-pixel-art_35
+    21300072: megaman-pose-pixel-art_36
+    21300074: megaman-pose-pixel-art_37
+    21300076: megaman-pose-pixel-art_38
+    21300078: megaman-pose-pixel-art_39
+    21300080: megaman-pose-pixel-art_40
+    21300082: megaman-pose-pixel-art_41
+    21300084: megaman-pose-pixel-art_42
+    21300086: megaman-pose-pixel-art_43
+    21300088: megaman-pose-pixel-art_44
+    21300090: megaman-pose-pixel-art_45
+    21300092: megaman-pose-pixel-art_46
+    21300094: megaman-pose-pixel-art_47
+    21300096: megaman-pose-pixel-art_48
+    21300098: megaman-pose-pixel-art_49
+    21300100: megaman-pose-pixel-art_50
+    21300102: megaman-pose-pixel-art_51
+    21300104: megaman-pose-pixel-art_52
+    21300106: megaman-pose-pixel-art_53
+    21300108: megaman-pose-pixel-art_54
+    21300110: megaman-pose-pixel-art_55
+    21300112: megaman-pose-pixel-art_56
+    21300114: megaman-pose-pixel-art_57
+    21300116: megaman-pose-pixel-art_58
+    21300118: megaman-pose-pixel-art_59
+    21300120: megaman-pose-pixel-art_60
+    21300122: megaman-pose-pixel-art_61
+    21300124: megaman-pose-pixel-art_62
+    21300126: megaman-pose-pixel-art_63
+    21300128: megaman-pose-pixel-art_64
+    21300130: megaman-pose-pixel-art_65
+    21300132: megaman-pose-pixel-art_66
+    21300134: megaman-pose-pixel-art_67
+    21300136: megaman-pose-pixel-art_68
+    21300138: megaman-pose-pixel-art_69
+    21300140: megaman-pose-pixel-art_70
+    21300142: megaman-pose-pixel-art_71
+    21300144: megaman-pose-pixel-art_72
+    21300146: megaman-pose-pixel-art_73
+    21300148: megaman-pose-pixel-art_74
+    21300150: megaman-pose-pixel-art_75
+    21300152: megaman-pose-pixel-art_76
+    21300154: megaman-pose-pixel-art_77
+    21300156: megaman-pose-pixel-art_78
+    21300158: megaman-pose-pixel-art_79
+    21300160: megaman-pose-pixel-art_80
+    21300162: megaman-pose-pixel-art_81
+    21300164: megaman-pose-pixel-art_82
+    21300166: megaman-pose-pixel-art_83
+    21300168: megaman-pose-pixel-art_84
+    21300170: megaman-pose-pixel-art_85
+    21300172: megaman-pose-pixel-art_86
+    21300174: megaman-pose-pixel-art_87
+    21300176: megaman-pose-pixel-art_88
+    21300178: megaman-pose-pixel-art_89
+    21300180: megaman-pose-pixel-art_90
+    21300182: megaman-pose-pixel-art_91
+    21300184: megaman-pose-pixel-art_92
+    21300186: megaman-pose-pixel-art_93
+    21300188: megaman-pose-pixel-art_94
+    21300190: megaman-pose-pixel-art_95
+    21300192: megaman-pose-pixel-art_96
+    21300194: megaman-pose-pixel-art_97
+    21300196: megaman-pose-pixel-art_98
+    21300198: megaman-pose-pixel-art_99
+    21300200: megaman-pose-pixel-art_100
+    21300202: megaman-pose-pixel-art_101
+    21300204: megaman-pose-pixel-art_102
+    21300206: megaman-pose-pixel-art_103
+    21300208: megaman-pose-pixel-art_104
+    21300210: megaman-pose-pixel-art_105
+    21300212: megaman-pose-pixel-art_106
+    21300214: megaman-pose-pixel-art_107
+    21300216: megaman-pose-pixel-art_108
+    21300218: megaman-pose-pixel-art_109
+    21300220: megaman-pose-pixel-art_110
+    21300222: megaman-pose-pixel-art_111
+    21300224: megaman-pose-pixel-art_112
+    21300226: megaman-pose-pixel-art_113
+    21300228: megaman-pose-pixel-art_114
+    21300230: megaman-pose-pixel-art_115
+    21300232: megaman-pose-pixel-art_116
+    21300234: megaman-pose-pixel-art_117
+    21300236: megaman-pose-pixel-art_118
+    21300238: megaman-pose-pixel-art_119
+    21300240: megaman-pose-pixel-art_120
+    21300242: megaman-pose-pixel-art_121
+    21300244: megaman-pose-pixel-art_122
+    21300246: megaman-pose-pixel-art_123
+    21300248: megaman-pose-pixel-art_124
+    21300250: megaman-pose-pixel-art_125
+    21300252: megaman-pose-pixel-art_126
+    21300254: megaman-pose-pixel-art_127
+    21300256: megaman-pose-pixel-art_128
+    21300258: megaman-pose-pixel-art_129
+    21300260: megaman-pose-pixel-art_130
+    21300262: megaman-pose-pixel-art_131
+    21300264: megaman-pose-pixel-art_132
+    21300266: megaman-pose-pixel-art_133
+    21300268: megaman-pose-pixel-art_134
+    21300270: megaman-pose-pixel-art_135
+    21300272: megaman-pose-pixel-art_136
+    21300274: megaman-pose-pixel-art_137
+    21300276: megaman-pose-pixel-art_138
+    21300278: megaman-pose-pixel-art_139
+    21300280: megaman-pose-pixel-art_140
+    21300282: megaman-pose-pixel-art_141
+    21300284: megaman-pose-pixel-art_142
+    21300286: megaman-pose-pixel-art_143
+    21300288: megaman-pose-pixel-art_144
+    21300290: megaman-pose-pixel-art_145
+    21300292: megaman-pose-pixel-art_146
+    21300294: megaman-pose-pixel-art_147
+    21300296: megaman-pose-pixel-art_148
+    21300298: megaman-pose-pixel-art_149
+    21300300: megaman-pose-pixel-art_150
+    21300302: megaman-pose-pixel-art_151
+    21300304: megaman-pose-pixel-art_152
+    21300306: megaman-pose-pixel-art_153
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 731
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 730
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 731
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 679
+        width: 10
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_4
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 732
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 742
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 726
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_7
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 742
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 712
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 712
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 712
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 726
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_12
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 726
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_13
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 726
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_14
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 726
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 726
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 694
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 694
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 694
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 679
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 679
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 679
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 679
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 679
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 679
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_25
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 679
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 679
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_27
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 679
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 675
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 675
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 675
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 657
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 657
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 657
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_34
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 632
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 632
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_36
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 632
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 631
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_38
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 630
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_39
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 632
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_40
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 632
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_41
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 631
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_42
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 631
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_43
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 631
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_44
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 630
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_45
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 631
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 640
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 640
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 640
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 640
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 622
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_51
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 585
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_52
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 541
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_53
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 543
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_54
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 541
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_55
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 542
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_56
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 541
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 541
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 540
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_59
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 541
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_60
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 541
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_61
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 540
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 464
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_63
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 464
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_64
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 464
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_65
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 464
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_66
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 466
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_67
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 465
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_68
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 467
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_69
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 467
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_70
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 471
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_71
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 471
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_72
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 471
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_73
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 471
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_74
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 404
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 403
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_76
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 403
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_77
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 401
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_78
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 402
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_79
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 407
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_80
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 407
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_81
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 407
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_82
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 401
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_83
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 402
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_84
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 346
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_85
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 350
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 353
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_87
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 352
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_88
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 349
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_89
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 349
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_90
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 351
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_91
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 351
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_92
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 350
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_93
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 352
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_94
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 286
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_95
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 287
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_96
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 287
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_97
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 291
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_98
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 301
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_99
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 298
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_100
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 301
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_101
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 301
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_102
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 300
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_103
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 300
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_104
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 236
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_105
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 235
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_106
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 247
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_107
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 251
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_108
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 248
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_109
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 250
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_110
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 250
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_111
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 248
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_112
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 192
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_113
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 190
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_114
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 193
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_115
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 193
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_116
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 193
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_117
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 193
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_118
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 194
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_119
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 193
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_120
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 193
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_121
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 193
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_122
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 194
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_123
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 174
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_124
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 170
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 172
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_126
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 130
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_127
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 173
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_128
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 171
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_129
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 141
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_130
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 130
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_131
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 168
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_132
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 168
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_133
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 130
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_134
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 130
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_135
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 139
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_136
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 125
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_137
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 128
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_138
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 54
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_139
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 56
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_140
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 57
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_141
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 61
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_142
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 57
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_143
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 57
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_144
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 55
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_145
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 55
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_146
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 55
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_147
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 55
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_148
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 55
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_149
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 8
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_150
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_151
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 6
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_152
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 6
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-pose-pixel-art_153
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 6
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
